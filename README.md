@@ -1,8 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
 🔭 My name is Son....                                                                                                                                           
-🌱 I’m currently learning at UTC Hanoi                                                                                                                                    🤔 I’m looking for help with...                                                                                                                                           
-😄 I want to a Deep Learning Engineer
+🌱 I’m currently learning at UTC Hanoi                                                                                                                                    😄 I want to a Deep Learning Engineer
 
 
 ## 🌐 Socials:
