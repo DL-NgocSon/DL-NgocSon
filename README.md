@@ -1,7 +1,10 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
 🔭 My name is Son....                                                                                                                                           
-🌱 I’m currently learning at UTC Hanoi                                                                                                                                    😄 Following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
+
+🌱 I’m currently learning at UTC Hanoi              
+
+😄 Following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
 
 
 ## 🌐 Socials:
